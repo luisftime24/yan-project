@@ -1,0 +1,40 @@
+.btn-primary {
+
+    background-color: #4b22f4;
+    border-color: #4b22f4;
+    border-radius: 8px;
+}
+
+.btn-primary:hover {
+    background-color: #9c86f9; /* Green */
+    border-color: #9c86f9;
+  }
+
+
+.btn-outline-primary {
+
+    
+    border-color: #4b22f4;
+    border-radius: 8px;
+}
+
+.bi {
+    color: #4b22f4;
+}
+
+.btn:hover {
+    background-color: #9c86f9;
+}
+
+
+
+.miclase {
+    color:#E6215D;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.cart-title {
+
+    color:#181B32;
+}
